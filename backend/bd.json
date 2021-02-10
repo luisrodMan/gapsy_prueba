@@ -1,0 +1,10 @@
+[
+	{ "nombre": "luis", "razon": "0001", "direccion": "1RA SEC NO . 2323" },
+	{ "nombre": "jorge", "razon": "0002", "direccion": "4RA SEC NO . 23231" },
+	{ "nombre": "sandra", "razon": "0003", "direccion": "2RA SEC NO . 23233" },
+	{ "nombre": "tere", "razon": "0004", "direccion": "6RA SEC NO . 323234" },
+	{ "nombre": "maria", "razon": "0005", "direccion": "8RA SEC NO . 42323" },
+	{ "nombre": "juan", "razon": "0006", "direccion": "9RA SEC NO . 52323" },
+	{ "nombre": "rodolfo", "razon": "0007", "direccion": "10RA SEC NO . 62323" },
+	{ "nombre": "andres", "razon": "0008", "direccion": "12RA SEC NO . 27323" }
+]
